@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-applepay",
+  "version": "0.0.1",
+  "description": "cordova pdf preview plugin with Foxit Pdf sdk",
+  "cordova": {
+    "id": "cordova-plugin-applepay",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nebulr/cordova-plugin-applepay.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "James Meyer",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/nebulr/cordova-plugin-applepay/issues"
+  },
+  "homepage": "https://github.com/nebulr/cordova-plugin-applepay#readme"
+}
