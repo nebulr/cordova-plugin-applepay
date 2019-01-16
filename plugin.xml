@@ -46,7 +46,7 @@
       </array>
     </config-file>
 
-    <framework src="Stripe" type="podspec" spec="~> 14.0.0"/>
+    <framework src="Stripe" type="podspec" spec="~> 11.5.0"/>
 
     <framework src="AddressBook.framework" />
     <framework src="PassKit.framework" />
